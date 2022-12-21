@@ -1,0 +1,19 @@
+(5+3)*10;80
+x**2 - 1 = 0;Incorrect input
+x**3 - 8 = 0;Incorrect input
+x**2 + 3*x**2 + 4;4*x**2 + 4
+x**2 - 1;-1 || 1
+x**3 - 8;2 || -1 - sqrt(3)*I || -1 + sqrt(3)*I
+x+3 = 0;Incorrect input
+(x**3 - 8 = 0);Incorrect input
+x**3 - 8 = 0;Incorrect input
+x**3 - 8;2 || -1 - sqrt(3)*I || -1 + sqrt(3)*I
+x**3 - 8 =1;Incorrect input
+x**3 - 8 s 0;Incorrect input
+(x+3 = 0);Incorrect input
+x+3 = 0;Incorrect input
+x + 3 = 0;Incorrect input
+x + 3;-3
+x**3 = 8;Incorrect input
+x**3-8;2 || -1 - sqrt(3)*I || -1 + sqrt(3)*I
+x**2 + 3*x**2 + 4;4*x**2 + 4
